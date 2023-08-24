@@ -17,9 +17,9 @@
 }
 
 .h1 {
-    text-align: center;
-    font-size: 50pt;
     margin-bottom: 20px;
+    font-size: 50pt;
+    text-align: center;
 }
 
 .nav {
@@ -34,10 +34,10 @@
 }
 
 * li {
-    list-style-type: none;
     display: flex;
-    font-size: 20pt;
     margin: 20px;
+    font-size: 20pt;
+    list-style-type: none;
 }
 
 * a {
@@ -80,10 +80,10 @@
 
 .item_description {
     display: flex;
-    font-weight: bolder;
-    justify-content: center;
     text-align: center;
     width: 300px;
+    font-weight: bolder;
+    justify-content: center;
 }
 
 .square {
